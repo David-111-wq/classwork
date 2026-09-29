@@ -118,7 +118,7 @@ a {
   padding-top: 60px;
 }
 #sec2 {
-  background-image: url(/images/background.JPEG);
+  background-image: url(./images/background.JPEG);
   background-repeat: no-repeat;
   height: 40vw;
   background-size: cover;
@@ -151,7 +151,6 @@ h1 {
   color: white;
   border: 1px solid;
   border-radius: 5px;
-  
 }
 #btn3 {
   padding: 10px;
@@ -160,7 +159,6 @@ h1 {
   border: 1px solid;
   border-radius: 5px;
   box-shadow: 3px 7px 15px;
-
 }
 #div8 {
   display: flex;
@@ -316,7 +314,7 @@ h2 {
   background-color: rgba(26, 129, 26, 0.31);
   color: green;
 }
-#cap{
+#cap {
   font-size: 30px;
   justify-content: center;
   padding: 10px;
@@ -324,7 +322,7 @@ h2 {
   background-color: rgba(255, 68, 0, 0.184);
   color: orangered;
 }
-#book{
+#book {
   font-size: 30px;
   justify-content: center;
   padding: 10px;
@@ -332,51 +330,48 @@ h2 {
   background-color: rgba(128, 0, 128, 0.103);
   color: purple;
 }
-#pencil{
+#pencil {
   font-size: 30px;
   justify-content: center;
   padding: 10px;
   border-radius: 50%;
   background-color: rgba(26, 129, 26, 0.31);
   color: green;
-
 }
-#sec5 img{
+#sec5 img {
   width: 500px;
   height: 400px;
   padding: 20px;
-  
 }
-#sec5{
+#sec5 {
   display: flex;
   padding: 20px;
 }
-#why{
+#why {
   padding: 20px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color:rgb(8, 8, 52) ;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(8, 8, 52);
   font-size: 15px;
 }
-h2{
+h2 {
   font-size: 25px;
 }
-#textdivp{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#textdivp {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: rgba(0, 0, 0, 0.642);
 }
-#iconpara{
+#iconpara {
   color: rgb(8, 8, 52);
 }
-#btn4{
-    padding: 10px;
-    background-color: rgb(8, 8, 52);
-    color: white;
-    border: 1px solid;
-    border-radius: 5px;
-    
+#btn4 {
+  padding: 10px;
+  background-color: rgb(8, 8, 52);
+  color: white;
+  border: 1px solid;
+  border-radius: 5px;
 }
-#absolutediv{
-  background-color:rgb(227, 170, 48) ;
+#absolutediv {
+  background-color: rgb(227, 170, 48);
   padding: 20px;
   height: 80px;
   justify-content: center;
@@ -386,66 +381,53 @@ h2{
   top: 108vw;
   right: 56vw;
 }
-#absolutediv b{
+#absolutediv b {
   font-size: 30px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-#pabsolute{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  
+#pabsolute {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 h3 {
   font-size: 10px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color:rgb(8, 8, 52) ;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(8, 8, 52);
   justify-content: center;
   text-align: center;
-  
 }
 h4 {
   font-size: 25px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-align: center;
 }
-.imagesstyle{
+.imagesstyle {
   padding: 10px;
   display: flex;
   box-sizing: border-box;
   background-color: white;
-  box-shadow: 3px 7px 15px; 
+  box-shadow: 3px 7px 15px;
 }
-#sec6 img{
+#sec6 img {
   width: 100px;
   height: 80px;
   border-radius: 10px;
 }
-#sec6{
+#sec6 {
   display: flex;
   justify-content: center;
   gap: 3vw;
 }
-.spa{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.spa {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: black;
 }
-.spa2{
-  color:rgb(8, 8, 52)  ;
+.spa2 {
+  color: rgb(8, 8, 52);
 }
-.pspa{
+.pspa {
   padding: 5px;
-  
 }
-#iconside{
-  padding: 20px;
-  background-color: white;
-  border-radius: 50px;
-  height: 15px;
-  margin-top: 50px;
-  box-shadow: 10px 5px 4px;
-  font-size: 20px;
-
-}
-#iconleft{
+#iconside {
   padding: 20px;
   background-color: white;
   border-radius: 50px;
@@ -454,49 +436,56 @@ h4 {
   box-shadow: 10px 5px 4px;
   font-size: 20px;
 }
-#slide{
+#iconleft {
+  padding: 20px;
+  background-color: white;
+  border-radius: 50px;
+  height: 15px;
+  margin-top: 50px;
+  box-shadow: 10px 5px 4px;
+  font-size: 20px;
+}
+#slide {
   justify-content: center;
   display: flex;
   padding: 20px;
   font-size: 40px;
-  color:rgb(8, 8, 52)  ;
- 
+  color: rgb(8, 8, 52);
 }
-#lastsec{
+#lastsec {
   display: flex;
   justify-content: center;
   background-color: darkblue;
   width: 80%;
   margin-left: 11vw;
-  background-image: url(images/classroom.jpeg);
+  background-image: url(./images/classroom.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-
 }
-#lastsecdiv{
+#lastsecdiv {
   display: flex;
   padding: 20px;
- margin-right: 15vw;
- gap: 10px;
+  margin-right: 15vw;
+  gap: 10px;
 }
-#calender{
+#calender {
   font-size: 50px;
   padding: 20px;
   background-color: rgba(93, 93, 190, 0.315);
-  color:rgb(227, 170, 48) ;
+  color: rgb(227, 170, 48);
 }
-#spancalender{
+#spancalender {
   font-size: 30px;
-  
+
   color: white;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-#calenderparagraph{
+#calenderparagraph {
   color: rgba(255, 255, 255, 0.575);
 }
 
-#lastbtn{
+#lastbtn {
   padding: 10px;
   border-radius: 5px;
   background-color: rgb(227, 170, 48);
@@ -508,7 +497,7 @@ h4 {
 }
 #menu {
   display: flex;
- 
+
   margin-top: 20px;
   background-color: rgb(9, 24, 43);
   color: rgba(255, 255, 255, 0.771);
@@ -517,73 +506,58 @@ h4 {
   display: flex;
   gap: 5px;
 }
-#divlast img{
+#divlast img {
   width: 50px;
   height: 50px;
   padding: 20px;
- 
 }
-#spanlast{
+#spanlast {
   font-size: 10px;
 }
-.lastsecspan{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.lastsecspan {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
   padding: 30px;
 }
-#divlast b{
+#divlast b {
   color: white;
 }
-.div2last i{
+.div2last i {
   color: white;
 }
-#btnlast{
+#btnlast {
   padding: 10px;
   justify-content: center;
-    
-    
-    border: 1px solid;
-    border-radius: 5px;
-    color: black;
+
+  border: 1px solid;
+  border-radius: 5px;
+  color: black;
 }
-#btnlast i{
+#btnlast i {
   background-color: blue;
- margin-left: 20px;
- font-size: 20px;
- 
+  margin-left: 20px;
+  font-size: 20px;
 }
-.vertical{
+.vertical {
   height: 160px;
   width: 1px;
   border: none;
   background-color: rgba(245, 245, 245, 0.511);
 }
-footer{
-display: flex;
-background-color: rgb(16, 58, 113);
-color: white;
+footer {
+  display: flex;
+  background-color: rgb(16, 58, 113);
+  color: white;
 }
-#copy{
+#copy {
   margin-left: 50px;
 }
-#xoxo{
+#xoxo {
   margin-left: 40vw;
 }
-#xoxo2{
+#xoxo2 {
   margin-right: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 768px) {
   #logo {
@@ -714,138 +688,124 @@ color: white;
   #sec3 {
     grid-template-columns: repeat(2, 1fr);
   }
-  #copy{
+  #copy {
     margin-left: 10px;
   }
- #divlast{
-  gap: 2px;
-  display: flex;
- }
- #divlast img{
-  width: 20px;
-  height: 20px;
-  padding: 2px;
-  padding-top: 15px;
- }
- #divlast b{
-  font-size: 10px;
-  padding: 2px;
- }
- #menu{
-  grid-template-columns: repeat(4, 2fr);
-  display: grid;
-  padding-left: 10px;
-  
- }
- #lastsecspan{
- padding: 0px;
- font-size: 15px;
- }
- #btnlast{
-  padding: 5px;
-  display: flex;
- }
- #btnlast i {
-  padding: 3px;
-  align-items: center
- };
- 
+  #divlast {
+    gap: 2px;
+    display: flex;
+  }
+  #divlast img {
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    padding-top: 15px;
+  }
+  #divlast b {
+    font-size: 10px;
+    padding: 2px;
+  }
+  #menu {
+    grid-template-columns: repeat(4, 2fr);
+    display: grid;
+    padding-left: 10px;
+  }
+  #lastsecspan {
+    padding: 0px;
+    font-size: 15px;
+  }
+  #btnlast {
+    padding: 5px;
+    display: flex;
+  }
+  #btnlast i {
+    padding: 3px;
+    align-items: center;
+  }
 
-.div2last{
-  margin-left: 10px;
-}
-footer {
-  display: flex;
-  gap: 10px;
-  font-size: 10px;
-}
-#copy{
-  display: flex;
-  
-}
-footer p{
-  display: flex;
-}
-.vertica2 {
-  height: 40px;
+  .div2last {
+    margin-left: 10px;
+  }
+  footer {
+    display: flex;
+    gap: 10px;
+    font-size: 10px;
+  }
+  #copy {
+    display: flex;
+  }
+  footer p {
+    display: flex;
+  }
+  .vertica2 {
+    height: 40px;
+  }
+  #lastsec {
+    display: flex;
+    font-size: 15px;
+  }
+  #lastsecdiv {
+    display: flex;
+    justify-content: center;
+  }
+  #calender {
+    font-size: 30px;
+    padding: 5px;
+    margin-right: 10px;
+    height: 30px;
+  }
+  #spancalender {
+    font-size: 15px;
+    padding: 10px;
+  }
+  #lastbtn {
+    align-items: center;
 
-}
-#lastsec{
-  display: flex;
-  font-size: 15px;
-}
- #lastsecdiv{
-  display: flex;
-  justify-content: center;
- }
- #calender{
-  font-size: 30px;
-  padding: 5px;
-  margin-right: 10px;
-  height: 30px;
- }
- #spancalender{
-  font-size: 15px;
-  padding: 10px;
-  
- }
- #lastbtn{
-  align-items: center;
-
- padding: 10px;
- margin-right: 20px;
-  background-color: rgb(227, 170, 48);
-  color: black;
-  border: 1px solid;
-  box-shadow: 3px 7px 15px;
-  
- }
-#iconside,#iconleft{
-  display: none;
-}
- #sec6{
-  display: grid;
-  grid-template-columns: 2, 1fr;
- }
- #boxes{
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
- }
- #para{
-  padding-left: 40vw;
- }
- #sec5{
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  font-size: 15px;
- }
- #sec5 img{
-  width: 300px;
-  height: 300px;
- }
- #absolutediv{
-  padding: 40px;
-  height: 50px;
-  top: 495vw;
-  right: 15vw;
-  padding: 30px;
-  align-items: center;
-width: 50px;
-border-radius: 50px;
-
- }
- #absolutediv{
-  font-size: 15px;
-
- }
- #absolutediv b{
-  font-size: 15px;
- }
-
-
-
-
-
-
-
+    padding: 10px;
+    margin-right: 20px;
+    background-color: rgb(227, 170, 48);
+    color: black;
+    border: 1px solid;
+    box-shadow: 3px 7px 15px;
+  }
+  #iconside,
+  #iconleft {
+    display: none;
+  }
+  #sec6 {
+    display: grid;
+    grid-template-columns: 2, 1fr;
+  }
+  #boxes {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  #para {
+    padding-left: 40vw;
+  }
+  #sec5 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    font-size: 15px;
+  }
+  #sec5 img {
+    width: 300px;
+    height: 300px;
+  }
+  #absolutediv {
+    padding: 40px;
+    height: 50px;
+    top: 495vw;
+    right: 15vw;
+    padding: 30px;
+    align-items: center;
+    width: 50px;
+    border-radius: 50px;
+  }
+  #absolutediv {
+    font-size: 15px;
+  }
+  #absolutediv b {
+    font-size: 15px;
+  }
 }
