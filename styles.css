@@ -1,0 +1,851 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: whitesmoke;
+}
+#logo {
+  height: 70px;
+}
+#sec1 {
+  display: flex;
+  background-color: rgb(8, 8, 52);
+  color: white;
+  padding-bottom: 10px;
+  gap: px;
+}
+
+#div1 {
+  display: flex;
+  align-items: center;
+}
+b {
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#span1 {
+  color: rgba(255, 255, 255, 0.615);
+  font-size: 10px;
+}
+#div2 {
+  display: flex;
+  padding-top: 20px;
+}
+
+#div2 ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+}
+a {
+  color: rgba(255, 255, 255, 0.685);
+  text-decoration: none;
+}
+#div3 {
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+  margin-left: 40px;
+}
+#btn1 {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(227, 170, 48);
+  color: black;
+  border: 1px solid;
+  width: 250px;
+  box-shadow: 3px 7px 15px;
+}
+#div4 {
+  margin-left: 50px;
+  font-size: 50px;
+  padding-top: 20px;
+}
+#sec1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 24px 10px;
+}
+
+#div2 {
+  display: flex;
+  padding-top: 20px;
+}
+
+#div2 ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+}
+
+#div3 {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  margin-left: 0;
+}
+
+#menu-toggle {
+  display: none;
+  border: 0;
+  background: transparent;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#menu-toggle span {
+  display: block;
+  width: 28px;
+  height: 3px;
+  margin: 5px 0;
+  border-radius: 2px;
+  background: white;
+}
+
+#div7 img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+#div7 {
+  display: flex;
+  margin-left: 60px;
+}
+#div5 {
+  margin-left: 60px;
+  padding-top: 60px;
+}
+#sec2 {
+  background-image: url(/images/background.JPEG);
+  background-repeat: no-repeat;
+  height: 40vw;
+  background-size: cover;
+  margin-top: -20px;
+  padding-bottom: 6vw;
+}
+
+#span2 {
+  font-size: 8px;
+  color: rgb(227, 170, 48);
+}
+#paragraph2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  font-size: 70px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#paragraph3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#div6 {
+  margin-left: 60px;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+#btn2 {
+  padding: 10px;
+  background-color: rgb(8, 8, 52);
+  color: white;
+  border: 1px solid;
+  border-radius: 5px;
+  
+}
+#btn3 {
+  padding: 10px;
+  background-color: white;
+  color: rgb(8, 8, 52);
+  border: 1px solid;
+  border-radius: 5px;
+  box-shadow: 3px 7px 15px;
+
+}
+#div8 {
+  display: flex;
+  gap: 40vw;
+}
+
+#paragraph5 {
+  background-color: white;
+  color: black;
+  font-size: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 10px 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: 25vw;
+  left: 85vw;
+}
+#span3 {
+  font-size: 40px;
+  color: black;
+}
+#sec3 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  color: whitesmoke;
+  gap: 12vw;
+  background-color: rgb(8, 8, 52);
+  padding: -50px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+#icon1 {
+  display: flex;
+}
+#i1 {
+  font-size: 50px;
+  color: rgb(227, 170, 48);
+}
+#p1 {
+  font-size: 10px;
+}
+#span4 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#icon2 {
+  display: flex;
+}
+#i2 {
+  font-size: 50px;
+  color: rgb(227, 170, 48);
+}
+#span5 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#p2 {
+  font-size: 10px;
+}
+#icon3 {
+  display: flex;
+}
+#i3 {
+  font-size: 50px;
+  color: rgb(227, 170, 48);
+}
+#span6 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#p3 {
+  font-size: 10px;
+}
+#icon4 {
+  display: flex;
+}
+#i4 {
+  font-size: 50px;
+  color: rgb(227, 170, 48);
+}
+#span7 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#p4 {
+  font-size: 10px;
+}
+#div10 {
+  display: flex;
+  padding-left: 40px;
+}
+#i5 {
+  font-size: 30px;
+}
+#p5 {
+  font-size: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  padding-left: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#divtop {
+  display: flex;
+}
+#para {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 70vw;
+}
+#boxes {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  box-sizing: border-box;
+  padding: 7px 40px;
+
+  /* margin-left: 20px; */
+  gap: 20px;
+  justify-content: center;
+}
+#calculator {
+  font-size: 30px;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(138, 138, 224, 0.607);
+  padding-top: 10px;
+  color: rgb(8, 8, 52);
+}
+.divs {
+  background-color: white;
+  padding: 10px 5px;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 3px 7px 15px;
+}
+.divs p {
+  font-size: 15px;
+}
+
+.divs b {
+  font-size: 20px;
+}
+.spans {
+  color: rgb(8, 8, 52);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#flask {
+  font-size: 30px;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(26, 129, 26, 0.31);
+  color: green;
+}
+#cap{
+  font-size: 30px;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(255, 68, 0, 0.184);
+  color: orangered;
+}
+#book{
+  font-size: 30px;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(128, 0, 128, 0.103);
+  color: purple;
+}
+#pencil{
+  font-size: 30px;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(26, 129, 26, 0.31);
+  color: green;
+
+}
+#sec5 img{
+  width: 500px;
+  height: 400px;
+  padding: 20px;
+  
+}
+#sec5{
+  display: flex;
+  padding: 20px;
+}
+#why{
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(8, 8, 52) ;
+  font-size: 15px;
+}
+h2{
+  font-size: 25px;
+}
+#textdivp{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.642);
+}
+#iconpara{
+  color: rgb(8, 8, 52);
+}
+#btn4{
+    padding: 10px;
+    background-color: rgb(8, 8, 52);
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+#absolutediv{
+  background-color:rgb(227, 170, 48) ;
+  padding: 20px;
+  height: 80px;
+  justify-content: center;
+  text-align: center;
+  border-radius: 5px;
+  position: absolute;
+  top: 108vw;
+  right: 56vw;
+}
+#absolutediv b{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pabsolute{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+h3 {
+  font-size: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(8, 8, 52) ;
+  justify-content: center;
+  text-align: center;
+  
+}
+h4 {
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.imagesstyle{
+  padding: 10px;
+  display: flex;
+  box-sizing: border-box;
+  background-color: white;
+  box-shadow: 3px 7px 15px; 
+}
+#sec6 img{
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+}
+#sec6{
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+}
+.spa{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+.spa2{
+  color:rgb(8, 8, 52)  ;
+}
+.pspa{
+  padding: 5px;
+  
+}
+#iconside{
+  padding: 20px;
+  background-color: white;
+  border-radius: 50px;
+  height: 15px;
+  margin-top: 50px;
+  box-shadow: 10px 5px 4px;
+  font-size: 20px;
+
+}
+#iconleft{
+  padding: 20px;
+  background-color: white;
+  border-radius: 50px;
+  height: 15px;
+  margin-top: 50px;
+  box-shadow: 10px 5px 4px;
+  font-size: 20px;
+}
+#slide{
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  font-size: 40px;
+  color:rgb(8, 8, 52)  ;
+ 
+}
+#lastsec{
+  display: flex;
+  justify-content: center;
+  background-color: darkblue;
+  width: 80%;
+  margin-left: 11vw;
+  background-image: url(images/classroom.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+#lastsecdiv{
+  display: flex;
+  padding: 20px;
+ margin-right: 15vw;
+ gap: 10px;
+}
+#calender{
+  font-size: 50px;
+  padding: 20px;
+  background-color: rgba(93, 93, 190, 0.315);
+  color:rgb(227, 170, 48) ;
+}
+#spancalender{
+  font-size: 30px;
+  
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#calenderparagraph{
+  color: rgba(255, 255, 255, 0.575);
+}
+
+#lastbtn{
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(227, 170, 48);
+  color: black;
+  border: 1px solid;
+  width: 15vw;
+  box-shadow: 3px 7px 15px;
+  margin-top: 50px;
+}
+#menu {
+  display: flex;
+ 
+  margin-top: 20px;
+  background-color: rgb(9, 24, 43);
+  color: rgba(255, 255, 255, 0.771);
+}
+#divlast {
+  display: flex;
+  gap: 5px;
+}
+#divlast img{
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+ 
+}
+#spanlast{
+  font-size: 10px;
+}
+.lastsecspan{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  padding: 30px;
+}
+#divlast b{
+  color: white;
+}
+.div2last i{
+  color: white;
+}
+#btnlast{
+  padding: 10px;
+  justify-content: center;
+    
+    
+    border: 1px solid;
+    border-radius: 5px;
+    color: black;
+}
+#btnlast i{
+  background-color: blue;
+ margin-left: 20px;
+ font-size: 20px;
+ 
+}
+.vertical{
+  height: 160px;
+  width: 1px;
+  border: none;
+  background-color: rgba(245, 245, 245, 0.511);
+}
+footer{
+display: flex;
+background-color: rgb(16, 58, 113);
+color: white;
+}
+#copy{
+  margin-left: 50px;
+}
+#xoxo{
+  margin-left: 40vw;
+}
+#xoxo2{
+  margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+  #logo {
+    width: 40px;
+    height: 40px;
+  }
+  #div1 b {
+    font-size: 20px;
+  }
+  #span1 {
+    font-size: 8px;
+  }
+  #div2 ul {
+    gap: 10px;
+  }
+  #btn1 {
+    width: 100px;
+    padding: 5px;
+  }
+  #div3 {
+    margin-left: 20px;
+    padding: 20px;
+  }
+  #sec2 {
+    padding-bottom: 30vh;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  #i1,
+  #i2,
+  #i3,
+  #i4 {
+    font-size: 30px;
+  }
+  #icon1,
+  #icon2,
+  #icon3,
+  #icon4 {
+    align-items: center;
+    gap: 5px;
+  }
+  #sec3 {
+    gap: 10vw;
+    justify-content: center;
+  }
+  #sec1 {
+    position: relative;
+    flex-wrap: wrap;
+  }
+
+  #menu-toggle {
+    display: block;
+    margin-left: auto;
+  }
+
+  #div2 {
+    display: none;
+    order: 3;
+    flex-basis: 100%;
+    padding: 0;
+  }
+
+  #div2.is-open {
+    display: block;
+  }
+
+  #div2 ul {
+    flex-direction: column;
+    gap: 0;
+    margin: 0;
+  }
+
+  #div2 li a {
+    display: block;
+    padding: 12px 4px;
+  }
+
+  #div3 {
+    display: none;
+    order: 4;
+    flex-basis: 100%;
+  }
+
+  #div3.is-open {
+    display: flex;
+  }
+  #div4 {
+    display: none;
+  }
+}
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+  #div8 {
+    gap: 20vw;
+  }
+  #div5 {
+    margin-left: 30px;
+  }
+  #paragraph5 {
+    left: 70vw;
+  }
+  #paragraph3 {
+    font-size: 12px;
+  }
+  #sec2 {
+    padding-bottom: 40vh;
+  }
+  #div6 {
+    margin-left: 28px;
+  }
+  #div7 {
+    margin-left: 28px;
+  }
+  #div7 img {
+    width: 40px;
+    height: 40px;
+  }
+  #i1,
+  #i2,
+  #i3,
+  #i4 {
+    font-size: 25px;
+  }
+  #sec3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #copy{
+    margin-left: 10px;
+  }
+ #divlast{
+  gap: 2px;
+  display: flex;
+ }
+ #divlast img{
+  width: 20px;
+  height: 20px;
+  padding: 2px;
+  padding-top: 15px;
+ }
+ #divlast b{
+  font-size: 10px;
+  padding: 2px;
+ }
+ #menu{
+  grid-template-columns: repeat(4, 2fr);
+  display: grid;
+  padding-left: 10px;
+  
+ }
+ #lastsecspan{
+ padding: 0px;
+ font-size: 15px;
+ }
+ #btnlast{
+  padding: 5px;
+  display: flex;
+ }
+ #btnlast i {
+  padding: 3px;
+  align-items: center
+ };
+ 
+
+.div2last{
+  margin-left: 10px;
+}
+footer {
+  display: flex;
+  gap: 10px;
+  font-size: 10px;
+}
+#copy{
+  display: flex;
+  
+}
+footer p{
+  display: flex;
+}
+.vertica2 {
+  height: 40px;
+
+}
+#lastsec{
+  display: flex;
+  font-size: 15px;
+}
+ #lastsecdiv{
+  display: flex;
+  justify-content: center;
+ }
+ #calender{
+  font-size: 30px;
+  padding: 5px;
+  margin-right: 10px;
+  height: 30px;
+ }
+ #spancalender{
+  font-size: 15px;
+  padding: 10px;
+  
+ }
+ #lastbtn{
+  align-items: center;
+
+ padding: 10px;
+ margin-right: 20px;
+  background-color: rgb(227, 170, 48);
+  color: black;
+  border: 1px solid;
+  box-shadow: 3px 7px 15px;
+  
+ }
+#iconside,#iconleft{
+  display: none;
+}
+ #sec6{
+  display: grid;
+  grid-template-columns: 2, 1fr;
+ }
+ #boxes{
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+ }
+ #para{
+  padding-left: 40vw;
+ }
+ #sec5{
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  font-size: 15px;
+ }
+ #sec5 img{
+  width: 300px;
+  height: 300px;
+ }
+ #absolutediv{
+  padding: 40px;
+  height: 50px;
+  top: 495vw;
+  right: 15vw;
+  padding: 30px;
+  align-items: center;
+width: 50px;
+border-radius: 50px;
+
+ }
+ #absolutediv{
+  font-size: 15px;
+
+ }
+ #absolutediv b{
+  font-size: 15px;
+ }
+
+
+
+
+
+
+
+}
